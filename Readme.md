@@ -1,3 +1,4 @@
+```sql
 HARD MODE:
 
 1) Create a report for a student that shows what classes (s)he has left to take based on the major enrolled. So for example, if the major requires classes U, V, W, X, Y, and Z, and the student has enrolled in U, X, and Y, the remaining classes to be taken are V, W, and Z. You can assume if a student enrolled in a class that they student completed the class with a passing grade.
@@ -16,3 +17,4 @@ HARD MODE:
   completion_flag != 1
 
   );
+```
